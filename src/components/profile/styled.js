@@ -55,7 +55,7 @@ export const WrapperUserGeneric = styled.div`
 `;
 
 export const WrapperImage = styled.img`
-  border-radius: 50%;
+  border-radius: 10%;
   width: 200px;
   margin: 8px;
 `;

@@ -5,8 +5,8 @@ export const Wrapper = styled.div`
   border-radius: 8px;
   border: 1px solid #ccc;
   margin: 16px 16px;
-  width: 350px;
-  height: 150px;
+  width: 320px;
+  height: 120px;
   align-content: center;
 `;
 
@@ -24,8 +24,8 @@ export const WrapperFullName = styled.h2`
 `;
 
 export const WrapperLink = styled.a`
-  font-size: 16px;
-  font-weight: bold;
+  font-size: 14px;
+  font-weight: thicker;
   margin: 8px 0;
   color: #3182ce;
 `;
